@@ -1,6 +1,6 @@
-## reactJS
+# reactJS
 
-# General Information
+## General Information
 In each directory has a different project written using ReactJs / Redux.
 Developing by TDD and Story Book configured to all projects.
 
