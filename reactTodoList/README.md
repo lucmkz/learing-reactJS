@@ -5,6 +5,10 @@
 I've written this little Counter App, only for practice React JS, and be a base for future bigger project.
 This app was written with a big inspiration in a Course that i have made. Called by 'React Js Ninja',  ministred by Fernando Daciuk.
 
+## What does this app do?
+
+A ToDo list. Where we can add new tasks, and can filter by: "A fazer" (ToDo), "Completo"(Done) and "Todos" (All).
+
 ## What's inside it?
 
 * Webpack 2
