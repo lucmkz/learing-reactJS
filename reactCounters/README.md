@@ -5,6 +5,10 @@
 I've written this little Counter App, only for practice React JS, and be a base for future bigger project.
 This app was written with a big inspiration in a Course that i have made. Called by 'React Js Ninja',  ministred by Fernando Daciuk.
 
+## What does this app do?
+
+A Counter Aplication. Where we can add new counters, and and they work independently of each other.
+
 ## What's inside it?
 
 * Webpack 2
@@ -37,8 +41,6 @@ because `spawn` module does not work very well on Windows.
 
 You should install `cross-spawn`, and edit `gulpfile.js`, removing line `4` and
 uncomment line `7`.
-
-A big thanks to [@hgtpcastro](https://github.com/hgtpcastro) for this tip.
 
 ## Scripts
 - `yarn dev (or npm run dev)`: Starts the application on development mode
