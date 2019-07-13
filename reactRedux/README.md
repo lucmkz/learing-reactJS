@@ -1,10 +1,4 @@
-Start Config for development ReactJs webApp
-
-Folder/ConfigureStore
-* Configure Store
-Reducers
-* Create-Reducer
-* Index, for combine Redux
+Projeto com objetivo de estudar mais o compartilhamento de estado pela aplicação usando redux
 
 
 ## Available Scripts
