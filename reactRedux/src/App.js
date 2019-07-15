@@ -45,7 +45,6 @@ flex-direction: row;
 
 const Form = styled.form`
 border: 1px solid;
-justify-content: space-between;
 width: 500px;
 height 300px;
 display: flex;
